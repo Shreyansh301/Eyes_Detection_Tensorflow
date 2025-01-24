@@ -1,0 +1,15 @@
+# Ignore model files
+*.h5
+
+# Ignore pickle files
+*.pickle
+
+# Ignore datasets
+Test_Dataset/
+different_img.jpg
+
+# Ignore macOS and editor-specific files
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
